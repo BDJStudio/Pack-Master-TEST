@@ -1,0 +1,4249 @@
+fileFormatVersion: 2
+guid: d80b127c3b2d20f44bcbf01424ee87d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9132472986957145136
+    second: bja235aaecyz_0
+  - first:
+      213: -8397879021876161779
+    second: bja235aaecyz_1
+  - first:
+      213: -8226264074372670504
+    second: bja235aaecyz_2
+  - first:
+      213: 3420298788225908926
+    second: bja235aaecyz_3
+  - first:
+      213: -6459942247893510337
+    second: bja235aaecyz_4
+  - first:
+      213: 4125043334187039340
+    second: bja235aaecyz_5
+  - first:
+      213: 4993928846444816874
+    second: bja235aaecyz_6
+  - first:
+      213: -2872328842994230055
+    second: bja235aaecyz_7
+  - first:
+      213: 8515369994599286236
+    second: bja235aaecyz_8
+  - first:
+      213: -1121026244200540849
+    second: bja235aaecyz_9
+  - first:
+      213: 3462123680089852268
+    second: bja235aaecyz_10
+  - first:
+      213: -2230475488221671743
+    second: bja235aaecyz_11
+  - first:
+      213: -7949394003716036200
+    second: bja235aaecyz_12
+  - first:
+      213: 7579339561875267480
+    second: bja235aaecyz_13
+  - first:
+      213: 675163581730488750
+    second: bja235aaecyz_14
+  - first:
+      213: 9163456363408450509
+    second: bja235aaecyz_15
+  - first:
+      213: 9038959253762152066
+    second: bja235aaecyz_16
+  - first:
+      213: -6596632811380936788
+    second: bja235aaecyz_17
+  - first:
+      213: 1096798856511919805
+    second: bja235aaecyz_18
+  - first:
+      213: -7929045339360663270
+    second: bja235aaecyz_19
+  - first:
+      213: 7388642368238324520
+    second: bja235aaecyz_20
+  - first:
+      213: -9156204893123798662
+    second: bja235aaecyz_21
+  - first:
+      213: -8802094845532850441
+    second: bja235aaecyz_22
+  - first:
+      213: -6600519778053935126
+    second: bja235aaecyz_23
+  - first:
+      213: 9040357776574894750
+    second: bja235aaecyz_24
+  - first:
+      213: -3625079674483322985
+    second: bja235aaecyz_25
+  - first:
+      213: -6588019024784697697
+    second: bja235aaecyz_26
+  - first:
+      213: -5018126963708416481
+    second: bja235aaecyz_27
+  - first:
+      213: -7534299084285387314
+    second: bja235aaecyz_28
+  - first:
+      213: -771324885111978341
+    second: bja235aaecyz_29
+  - first:
+      213: -7560165739678937252
+    second: bja235aaecyz_30
+  - first:
+      213: -2165291053518223484
+    second: bja235aaecyz_31
+  - first:
+      213: 7664668126419871648
+    second: bja235aaecyz_32
+  - first:
+      213: -4829105973578731414
+    second: bja235aaecyz_33
+  - first:
+      213: 8849069962353615216
+    second: bja235aaecyz_34
+  - first:
+      213: -2882543703332592248
+    second: bja235aaecyz_35
+  - first:
+      213: 6111253047930429670
+    second: bja235aaecyz_36
+  - first:
+      213: -6468598681795572981
+    second: bja235aaecyz_37
+  - first:
+      213: 7933572004576141187
+    second: bja235aaecyz_38
+  - first:
+      213: -798140481956176021
+    second: bja235aaecyz_39
+  - first:
+      213: 1060546930918192258
+    second: bja235aaecyz_40
+  - first:
+      213: 1136165991092910627
+    second: bja235aaecyz_41
+  - first:
+      213: -4520096215849278207
+    second: bja235aaecyz_42
+  - first:
+      213: 540240457762497179
+    second: bja235aaecyz_43
+  - first:
+      213: -2364396471884820604
+    second: bja235aaecyz_44
+  - first:
+      213: -6706079326437244582
+    second: bja235aaecyz_45
+  - first:
+      213: 1744024026423966274
+    second: bja235aaecyz_46
+  - first:
+      213: -4415986323004520499
+    second: bja235aaecyz_47
+  - first:
+      213: -8838084951491941020
+    second: bja235aaecyz_48
+  - first:
+      213: 3325511370957628277
+    second: bja235aaecyz_49
+  - first:
+      213: 7273985990558925118
+    second: bja235aaecyz_50
+  - first:
+      213: 3144534076826673461
+    second: bja235aaecyz_51
+  - first:
+      213: 8576543272178493132
+    second: bja235aaecyz_52
+  - first:
+      213: -5639456068130025305
+    second: bja235aaecyz_53
+  - first:
+      213: 1416956885384563618
+    second: bja235aaecyz_54
+  - first:
+      213: -5243618723698340508
+    second: bja235aaecyz_55
+  - first:
+      213: 4021574892107592450
+    second: bja235aaecyz_56
+  - first:
+      213: -4111410735218068010
+    second: bja235aaecyz_57
+  - first:
+      213: 850340852132849468
+    second: bja235aaecyz_58
+  - first:
+      213: -1853340015617861150
+    second: bja235aaecyz_59
+  - first:
+      213: 1044016274292324024
+    second: bja235aaecyz_60
+  - first:
+      213: 4558783917756241057
+    second: bja235aaecyz_61
+  - first:
+      213: -7446122971360742656
+    second: bja235aaecyz_62
+  - first:
+      213: 6373560377056605228
+    second: bja235aaecyz_63
+  - first:
+      213: -1109154332504937040
+    second: bja235aaecyz_64
+  - first:
+      213: 598718143366805296
+    second: bja235aaecyz_65
+  - first:
+      213: -3038364803268781628
+    second: bja235aaecyz_66
+  - first:
+      213: -3805698042227639183
+    second: bja235aaecyz_67
+  - first:
+      213: 8781442134919736528
+    second: bja235aaecyz_68
+  - first:
+      213: -9150124621612144428
+    second: bja235aaecyz_69
+  - first:
+      213: -84258675544848573
+    second: bja235aaecyz_70
+  - first:
+      213: 5320807003029361378
+    second: bja235aaecyz_71
+  - first:
+      213: 7120935721178577857
+    second: bja235aaecyz_72
+  - first:
+      213: -8752166875889477937
+    second: bja235aaecyz_73
+  - first:
+      213: 6027397089772319846
+    second: bja235aaecyz_74
+  - first:
+      213: -6606825558459575412
+    second: bja235aaecyz_75
+  - first:
+      213: 6802070138452829117
+    second: bja235aaecyz_76
+  - first:
+      213: -8961583119038693908
+    second: bja235aaecyz_77
+  - first:
+      213: -1575530542506174709
+    second: bja235aaecyz_78
+  - first:
+      213: -2241600564079601393
+    second: bja235aaecyz_79
+  - first:
+      213: -985034666429630052
+    second: bja235aaecyz_80
+  - first:
+      213: 5066824465914739731
+    second: bja235aaecyz_81
+  - first:
+      213: 2407112827523374443
+    second: bja235aaecyz_82
+  - first:
+      213: -5436621364172356976
+    second: bja235aaecyz_83
+  - first:
+      213: -6504737325370787894
+    second: bja235aaecyz_84
+  - first:
+      213: -7958324150634236943
+    second: bja235aaecyz_85
+  - first:
+      213: -3797523942080754976
+    second: bja235aaecyz_86
+  - first:
+      213: 2222669246590013580
+    second: bja235aaecyz_87
+  - first:
+      213: -305740786580264410
+    second: bja235aaecyz_88
+  - first:
+      213: 1635452721763069365
+    second: bja235aaecyz_89
+  - first:
+      213: -8970527099134128036
+    second: bja235aaecyz_90
+  - first:
+      213: 4484605971071079257
+    second: bja235aaecyz_91
+  - first:
+      213: 7757464607077689853
+    second: bja235aaecyz_92
+  - first:
+      213: 5884271741117991760
+    second: bja235aaecyz_93
+  - first:
+      213: -3892217776101665669
+    second: bja235aaecyz_94
+  - first:
+      213: -7852276996189162574
+    second: bja235aaecyz_95
+  - first:
+      213: 7127440847452826924
+    second: bja235aaecyz_96
+  - first:
+      213: 7531948791740596060
+    second: bja235aaecyz_97
+  - first:
+      213: -7125280528511400557
+    second: bja235aaecyz_98
+  - first:
+      213: -6981116354056198806
+    second: bja235aaecyz_99
+  - first:
+      213: 2440468856685998486
+    second: bja235aaecyz_100
+  - first:
+      213: -6850191584014159290
+    second: bja235aaecyz_101
+  - first:
+      213: -8914911024746408423
+    second: bja235aaecyz_102
+  - first:
+      213: 6426614560851424157
+    second: bja235aaecyz_103
+  - first:
+      213: 1947649320581367135
+    second: bja235aaecyz_104
+  - first:
+      213: -4051094026013389286
+    second: bja235aaecyz_105
+  - first:
+      213: 5707338326709655487
+    second: bja235aaecyz_106
+  - first:
+      213: 2752895088398231466
+    second: bja235aaecyz_107
+  - first:
+      213: 7359550655818478662
+    second: bja235aaecyz_108
+  - first:
+      213: 4437984595520261141
+    second: bja235aaecyz_109
+  - first:
+      213: -7840672290760519458
+    second: bja235aaecyz_110
+  - first:
+      213: -5804872865598788738
+    second: bja235aaecyz_111
+  - first:
+      213: -302220849889410160
+    second: bja235aaecyz_112
+  - first:
+      213: 8810174024449705143
+    second: bja235aaecyz_113
+  - first:
+      213: 8655030981323181121
+    second: bja235aaecyz_114
+  - first:
+      213: -1546968224997862148
+    second: bja235aaecyz_115
+  - first:
+      213: -1779693572126260558
+    second: bja235aaecyz_116
+  - first:
+      213: 4661343629170555926
+    second: bja235aaecyz_117
+  - first:
+      213: 257528815035551585
+    second: bja235aaecyz_118
+  - first:
+      213: -918583742496295408
+    second: bja235aaecyz_119
+  - first:
+      213: -4109600372281451364
+    second: bja235aaecyz_120
+  - first:
+      213: -1010717128038704397
+    second: bja235aaecyz_121
+  - first:
+      213: -1614031388145120429
+    second: bja235aaecyz_122
+  - first:
+      213: 7798376367875986354
+    second: bja235aaecyz_123
+  - first:
+      213: 999905385791138738
+    second: bja235aaecyz_124
+  - first:
+      213: 4368426733779412356
+    second: bja235aaecyz_125
+  - first:
+      213: -8981318629623752420
+    second: bja235aaecyz_126
+  - first:
+      213: 5626731549980477037
+    second: bja235aaecyz_127
+  - first:
+      213: 7363163514437321096
+    second: bja235aaecyz_128
+  - first:
+      213: -8483927444868627811
+    second: bja235aaecyz_129
+  - first:
+      213: -7107605485581829484
+    second: bja235aaecyz_130
+  - first:
+      213: 2623139480657652697
+    second: bja235aaecyz_131
+  - first:
+      213: 3488171285941724731
+    second: bja235aaecyz_132
+  - first:
+      213: -4959659028469602934
+    second: bja235aaecyz_133
+  - first:
+      213: 5553366758254141478
+    second: bja235aaecyz_134
+  - first:
+      213: -1105759045150985469
+    second: bja235aaecyz_135
+  - first:
+      213: -1203890930006815067
+    second: bja235aaecyz_136
+  - first:
+      213: -8975470110820798839
+    second: bja235aaecyz_137
+  - first:
+      213: -7200686869732952144
+    second: bja235aaecyz_138
+  - first:
+      213: -6270792584045503667
+    second: bja235aaecyz_139
+  - first:
+      213: 6227953607130192496
+    second: bja235aaecyz_140
+  - first:
+      213: 1808650031099836277
+    second: bja235aaecyz_141
+  - first:
+      213: 7901018361703434706
+    second: bja235aaecyz_142
+  - first:
+      213: 8052445793155697037
+    second: bja235aaecyz_143
+  - first:
+      213: 5244864900711499435
+    second: bja235aaecyz_144
+  - first:
+      213: -4046744196807829187
+    second: bja235aaecyz_145
+  - first:
+      213: 4048695471997799383
+    second: bja235aaecyz_146
+  - first:
+      213: -3238256041798112807
+    second: bja235aaecyz_147
+  - first:
+      213: 589369479222032590
+    second: bja235aaecyz_148
+  - first:
+      213: -7955753531167639155
+    second: bja235aaecyz_149
+  - first:
+      213: 587893742237581677
+    second: bja235aaecyz_150
+  - first:
+      213: 2845756016256294744
+    second: bja235aaecyz_151
+  - first:
+      213: 2579327910988170443
+    second: bja235aaecyz_152
+  - first:
+      213: -5338867211363790929
+    second: country_0
+  - first:
+      213: 3719465888066460641
+    second: country_1
+  - first:
+      213: 4852405681816178509
+    second: country_2
+  - first:
+      213: 5286653043520032212
+    second: country_3
+  - first:
+      213: -8588985266226208048
+    second: country_4
+  - first:
+      213: 6765504602045487606
+    second: country_5
+  - first:
+      213: -8002289247136817173
+    second: country_6
+  - first:
+      213: -3654333648653592747
+    second: country_7
+  - first:
+      213: -1817333761001427215
+    second: country_8
+  - first:
+      213: 1206803467675857688
+    second: country_9
+  - first:
+      213: 111335568622103184
+    second: country_10
+  - first:
+      213: 153588094691563118
+    second: country_11
+  - first:
+      213: 1530916716522487995
+    second: country_12
+  - first:
+      213: 7698565738411843106
+    second: country_13
+  - first:
+      213: 9077469130093905142
+    second: country_14
+  - first:
+      213: -2784595692530703711
+    second: country_15
+  - first:
+      213: -3644990446083121115
+    second: country_16
+  - first:
+      213: 1623781012873060637
+    second: country_17
+  - first:
+      213: 107214168630800143
+    second: country_18
+  - first:
+      213: -9075944175973271962
+    second: country_19
+  - first:
+      213: 2228995686672024547
+    second: country_20
+  - first:
+      213: 1600416382558203140
+    second: country_21
+  - first:
+      213: 7237952339563945720
+    second: country_22
+  - first:
+      213: 7418438292872800285
+    second: country_23
+  - first:
+      213: 5513569447231431351
+    second: country_24
+  - first:
+      213: -5300177708132183008
+    second: country_25
+  - first:
+      213: 3545841670396734006
+    second: country_26
+  - first:
+      213: 4522532789858341590
+    second: country_27
+  - first:
+      213: -6236737108454759601
+    second: country_28
+  - first:
+      213: -4296516326651874352
+    second: country_29
+  - first:
+      213: 6417895002390203640
+    second: country_30
+  - first:
+      213: -4668006489031374630
+    second: country_31
+  - first:
+      213: 3790040546458948193
+    second: country_32
+  - first:
+      213: -4586828930073287056
+    second: country_33
+  - first:
+      213: 4404144841946443093
+    second: country_34
+  - first:
+      213: -9004938981755497565
+    second: country_35
+  - first:
+      213: 2473644684787447440
+    second: country_36
+  - first:
+      213: -3123199411303379385
+    second: country_37
+  - first:
+      213: 8195933660472400981
+    second: country_38
+  - first:
+      213: -702183568063206765
+    second: country_39
+  - first:
+      213: 5720932071398856819
+    second: country_40
+  - first:
+      213: 6323085069822022098
+    second: country_41
+  - first:
+      213: 9065803686717645463
+    second: country_42
+  - first:
+      213: 596981448384722389
+    second: country_43
+  - first:
+      213: -7206451444132827829
+    second: country_44
+  - first:
+      213: 1337105585143570818
+    second: country_45
+  - first:
+      213: 3068689764693458687
+    second: country_46
+  - first:
+      213: -891601402314564799
+    second: country_47
+  - first:
+      213: 822570039242847250
+    second: country_48
+  - first:
+      213: 1005050266332155909
+    second: country_49
+  - first:
+      213: -7422538428599238206
+    second: country_50
+  - first:
+      213: -537176926309958103
+    second: country_51
+  - first:
+      213: -4937234118860888635
+    second: country_52
+  - first:
+      213: 9119798697778470225
+    second: country_53
+  - first:
+      213: 4995585927461946226
+    second: country_54
+  - first:
+      213: -5043020557017317816
+    second: country_55
+  - first:
+      213: -8568513720609084916
+    second: country_56
+  - first:
+      213: 1869813291244829179
+    second: country_57
+  - first:
+      213: -4059078597294982933
+    second: country_58
+  - first:
+      213: -3816835125573824262
+    second: country_59
+  - first:
+      213: -6779062154862755483
+    second: country_60
+  - first:
+      213: -5034483965323218550
+    second: country_61
+  - first:
+      213: 9156711386607109074
+    second: country_62
+  - first:
+      213: -8801202052025738925
+    second: country_63
+  - first:
+      213: -1169154690050364267
+    second: country_64
+  - first:
+      213: 4278120512118644661
+    second: country_65
+  - first:
+      213: -4347491347899324580
+    second: country_66
+  - first:
+      213: -991944551265723947
+    second: country_67
+  - first:
+      213: 5144766717990287842
+    second: country_68
+  - first:
+      213: 2008934370488926348
+    second: country_69
+  - first:
+      213: -4897554025507665479
+    second: country_70
+  - first:
+      213: -2973508533347090166
+    second: country_71
+  - first:
+      213: -179700067150664274
+    second: country_72
+  - first:
+      213: -8721889548375455713
+    second: country_73
+  - first:
+      213: -1329509801574782159
+    second: country_74
+  - first:
+      213: -1096186595540023155
+    second: country_75
+  - first:
+      213: 5008696684849509845
+    second: country_76
+  - first:
+      213: -2269597873263311165
+    second: country_77
+  - first:
+      213: 6093356649507207526
+    second: country_78
+  - first:
+      213: -1780107694235537044
+    second: country_79
+  - first:
+      213: -3964793324573437561
+    second: country_80
+  - first:
+      213: -3837713267822206248
+    second: country_81
+  - first:
+      213: 7854821925763262611
+    second: country_82
+  - first:
+      213: 5628360877577881366
+    second: country_83
+  - first:
+      213: -712639682677780783
+    second: country_84
+  - first:
+      213: -7734830116336480370
+    second: country_85
+  - first:
+      213: 4062193151382164420
+    second: country_86
+  - first:
+      213: 2579638419076936978
+    second: country_87
+  - first:
+      213: -7981613627151532683
+    second: country_88
+  - first:
+      213: 2584005022900546001
+    second: country_89
+  - first:
+      213: 5205461565406853696
+    second: country_90
+  - first:
+      213: -7851488671316071773
+    second: country_91
+  - first:
+      213: 8700391815166894043
+    second: country_92
+  - first:
+      213: -4376871202979054451
+    second: country_93
+  - first:
+      213: -8666506664877782645
+    second: country_94
+  - first:
+      213: -599976994277857780
+    second: country_95
+  - first:
+      213: 2442774471657967306
+    second: country_96
+  - first:
+      213: -406724175617741106
+    second: country_97
+  - first:
+      213: -2939491502183764718
+    second: country_98
+  - first:
+      213: -4398116158636412133
+    second: country_99
+  - first:
+      213: -7763162833737493799
+    second: country_100
+  - first:
+      213: 749842791616178363
+    second: country_101
+  - first:
+      213: -4288472022386736421
+    second: country_102
+  - first:
+      213: -1480251775491361055
+    second: country_103
+  - first:
+      213: -473058832203072149
+    second: country_104
+  - first:
+      213: 1829118070116290352
+    second: country_105
+  - first:
+      213: 2166042358319597801
+    second: country_106
+  - first:
+      213: -3072439327582312970
+    second: country_107
+  - first:
+      213: -5464008718620183924
+    second: country_108
+  - first:
+      213: 6583584474747823988
+    second: country_109
+  - first:
+      213: 7423704923623001331
+    second: country_110
+  - first:
+      213: 4265487598713359826
+    second: country_111
+  - first:
+      213: 7672222569154857662
+    second: country_112
+  - first:
+      213: -2524644815248744964
+    second: country_113
+  - first:
+      213: -7428050133853967303
+    second: country_114
+  - first:
+      213: 4972887194502435791
+    second: country_115
+  - first:
+      213: 4861562841622713543
+    second: country_116
+  - first:
+      213: -3169754952618216450
+    second: country_117
+  - first:
+      213: -6458123907475553500
+    second: country_118
+  - first:
+      213: 5954450106963172504
+    second: country_119
+  - first:
+      213: 221978657326821441
+    second: country_120
+  - first:
+      213: -491693501687469062
+    second: country_121
+  - first:
+      213: -833021760700836229
+    second: country_122
+  - first:
+      213: -3346537257444926770
+    second: country_123
+  - first:
+      213: -4763937813008319758
+    second: country_124
+  - first:
+      213: 3418363478556284216
+    second: country_125
+  - first:
+      213: -8532910898796936730
+    second: country_126
+  - first:
+      213: 7648798757692832290
+    second: country_127
+  - first:
+      213: 4196937378732935824
+    second: country_128
+  - first:
+      213: 4977939475131142075
+    second: country_129
+  - first:
+      213: 3933526208433961127
+    second: country_130
+  - first:
+      213: -2434284549905857870
+    second: country_131
+  - first:
+      213: 8667441102825447111
+    second: country_132
+  - first:
+      213: 8468811714646901562
+    second: country_133
+  - first:
+      213: 4703706348453484606
+    second: country_134
+  - first:
+      213: -1909384654410754025
+    second: country_135
+  - first:
+      213: -511650786372136046
+    second: country_136
+  - first:
+      213: -5058568757748737846
+    second: country_137
+  - first:
+      213: -6099072323650016066
+    second: country_138
+  - first:
+      213: -1655374040882401903
+    second: country_139
+  - first:
+      213: -8000135876737495596
+    second: country_140
+  - first:
+      213: -2673097565036167789
+    second: country_141
+  - first:
+      213: 8506044479991496124
+    second: country_142
+  - first:
+      213: -4693995536695212019
+    second: country_143
+  - first:
+      213: -6559675203693786043
+    second: country_144
+  - first:
+      213: 5090364225399692538
+    second: country_145
+  - first:
+      213: 8026367112880037894
+    second: country_146
+  - first:
+      213: -8014730061720539726
+    second: country_147
+  - first:
+      213: -886382807684862284
+    second: country_148
+  - first:
+      213: -1957936346311863957
+    second: country_149
+  - first:
+      213: 7271884013227353203
+    second: country_150
+  - first:
+      213: 2598302823976245538
+    second: country_151
+  - first:
+      213: -1288992931963782009
+    second: country_152
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: country_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4eabce8888e5b0800000000000000
+      internalID: -5338867211363790929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb5264c4823e9330800000000000000
+      internalID: 3719465888066460641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8dba2245375340800000000000000
+      internalID: 4852405681816178509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddcfb5eee6fd5940800000000000000
+      internalID: 5286653043520032212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e581286bcdc880800000000000000
+      internalID: -8588985266226208048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f911332796e3ed50800000000000000
+      internalID: 6765504602045487606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5b72e35822f090800000000000000
+      internalID: -8002289247136817173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557de3578e2394dc0800000000000000
+      internalID: -3654333648653592747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 816
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe6f21b29887c6e0800000000000000
+      internalID: -1817333761001427215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81377842c5d6fb010800000000000000
+      internalID: 1206803467675857688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a269a1c1b8b8100800000000000000
+      internalID: 111335568622103184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d1d1fe87a12200800000000000000
+      internalID: 153588094691563118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c70d74a8ee3510800000000000000
+      internalID: 1530916716522487995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed70610ccc6da60800000000000000
+      internalID: 7698565738411843106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f442de4416a9fd70800000000000000
+      internalID: 9077469130093905142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ef9798f02b59d0800000000000000
+      internalID: -2784595692530703711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_16
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e58350846a6dc0800000000000000
+      internalID: -3644990446083121115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 765
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a2516a34d88610800000000000000
+      internalID: 1623781012873060637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fa024e7b6ec7100800000000000000
+      internalID: 107214168630800143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66676ddbbd4cb0280800000000000000
+      internalID: -9075944175973271962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c6fd64cbfeee10800000000000000
+      internalID: 2228995686672024547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de8177832d53610800000000000000
+      internalID: 1600416382558203140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9ae4fd4f527460800000000000000
+      internalID: 7237952339563945720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a6d2a25693f660800000000000000
+      internalID: 7418438292872800285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b22daa3332248c40800000000000000
+      internalID: 5513569447231431351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_25
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024565cb47cf176b0800000000000000
+      internalID: -5300177708132183008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_26
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 714
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a66c9663c553130800000000000000
+      internalID: 3545841670396734006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d210986c9343ce30800000000000000
+      internalID: 4522532789858341590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ae0db4a8a279a0800000000000000
+      internalID: -6236737108454759601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3bf323a25bf54c0800000000000000
+      internalID: -4296516326651874352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc093f4081f01950800000000000000
+      internalID: 6417895002390203640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_31
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8011494d8e73fb0800000000000000
+      internalID: -4668006489031374630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1625308ebcde89430800000000000000
+      internalID: 3790040546458948193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0762f71e36f4850c0800000000000000
+      internalID: -4586828930073287056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d269b466aae1d30800000000000000
+      internalID: 4404144841946443093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_35
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 663
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35560d4b7080380800000000000000
+      internalID: -9004938981755497565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f9412cb6245220800000000000000
+      internalID: 2473644684787447440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e8d8eceaa28a4d0800000000000000
+      internalID: -3123199411303379385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cdf138d3ecdb170800000000000000
+      internalID: 8195933660472400981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ae972e3c75146f0800000000000000
+      internalID: -702183568063206765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3785edb7865d46f40800000000000000
+      internalID: 5720932071398856819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1515fae5c10c750800000000000000
+      internalID: 6323085069822022098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926b3e9b6430dd70800000000000000
+      internalID: 9065803686717645463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_43
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d53870e677e84800800000000000000
+      internalID: 596981448384722389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 612
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dac5dc79a8dfb90800000000000000
+      internalID: -7206451444132827829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2816ca5027a5e8210800000000000000
+      internalID: 1337105585143570818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe3e66151d269a20800000000000000
+      internalID: 3068689764693458687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdccd9f3560a3f0800000000000000
+      internalID: -891601402314564799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214f2ffa71b5a6b00800000000000000
+      internalID: 822570039242847250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d32a64e7a2fd00800000000000000
+      internalID: 1005050266332155909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_50
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c108af10a8ddf890800000000000000
+      internalID: -7422538428599238206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e32cd7e609b88f0800000000000000
+      internalID: -537176926309958103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_52
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ab5c3abb6b7bb0800000000000000
+      internalID: -4937234118860888635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 561
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd72cc898009e70800000000000000
+      internalID: 9119798697778470225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2734f4beee2e35540800000000000000
+      internalID: 4995585927461946226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e7dffb587930ab0800000000000000
+      internalID: -5043020557017317816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae8064b26861980800000000000000
+      internalID: -8568513720609084916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b3fc1849e2f910800000000000000
+      internalID: 1869813291244829179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be877dc85814ba7c0800000000000000
+      internalID: -4059078597294982933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af050fdfca0e70bc0800000000000000
+      internalID: -3816835125573824262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_60
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5618c1d13eeebe1a0800000000000000
+      internalID: -6779062154862755483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_61
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817283e18be12ab0800000000000000
+      internalID: -5034483965323218550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_62
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 510
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3cd75ed7c231f70800000000000000
+      internalID: 9156711386607109074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359119c4d59dbd580800000000000000
+      internalID: -8801202052025738925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce01cf00456cfe0800000000000000
+      internalID: -1169154690050364267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_65
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfd42770ffee5b30800000000000000
+      internalID: 4278120512118644661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57606037ab9aa3c0800000000000000
+      internalID: -4347491347899324580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_67
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91ce8afa7eb32f0800000000000000
+      internalID: -991944551265723947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_68
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e930166212e56740800000000000000
+      internalID: 5144766717990287842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_69
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c01a8a2b21eb10800000000000000
+      internalID: 2008934370488926348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_70
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9c459ef84680cb0800000000000000
+      internalID: -4897554025507665479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_71
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 459
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0101454eb9fbb6d0800000000000000
+      internalID: -2973508533347090166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadee53bdb3918df0800000000000000
+      internalID: -179700067150664274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_73
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1883e29aaf95f680800000000000000
+      internalID: -8721889548375455713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2cb721e1ac8de0800000000000000
+      internalID: -1329509801574782159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88ca45691099c0f0800000000000000
+      internalID: -1096186595540023155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_76
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b1200917728540800000000000000
+      internalID: 5008696684849509845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_77
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6882552c4c080e0800000000000000
+      internalID: -2269597873263311165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_78
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66934a7b693ff8450800000000000000
+      internalID: 6093356649507207526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_79
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b627cb79cb47e0800000000000000
+      internalID: -1780107694235537044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_80
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 408
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d5f84a793af8c0800000000000000
+      internalID: -3964793324573437561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d267a1bd14bdbac0800000000000000
+      internalID: -3837713267822206248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a113cceee10d60800000000000000
+      internalID: 7854821925763262611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6174cb7d564fb1e40800000000000000
+      internalID: 5628360877577881366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_84
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec42dfbf13c16f0800000000000000
+      internalID: -712639682677780783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f45c57dfc58a490800000000000000
+      internalID: -7734830116336480370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_86
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c39825162fcf5830800000000000000
+      internalID: 4062193151382164420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_87
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f7028977bcc320800000000000000
+      internalID: 2579638419076936978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_88
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d373bc1bc9b3190800000000000000
+      internalID: -7981613627151532683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_89
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 357
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9efcfa0ea3cd320800000000000000
+      internalID: 2584005022900546001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a360ac6b38d3840800000000000000
+      internalID: 5205461565406853696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa33407a8e90390800000000000000
+      internalID: -7851488671316071773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf1dbd52400eb870800000000000000
+      internalID: 8700391815166894043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cfbce94da3243c0800000000000000
+      internalID: -4376871202979054451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_94
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89876cfa126ab780800000000000000
+      internalID: -8666506664877782645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_95
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0669ae3a147ca7f0800000000000000
+      internalID: -599976994277857780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_96
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec099807a76e120800000000000000
+      internalID: 2442774471657967306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_97
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceadb664860b5af0800000000000000
+      internalID: -406724175617741106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_98
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 306
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dae088d04d437d0800000000000000
+      internalID: -2939491502183764718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13329be7a0c6f2c0800000000000000
+      internalID: -4398116158636412133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_100
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2df81a884b34490800000000000000
+      internalID: -7763162833737493799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_101
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb86bafcb0af76a00800000000000000
+      internalID: 749842791616178363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2007cba694c74c0800000000000000
+      internalID: -4288472022386736421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e632b75ad6157be0800000000000000
+      internalID: -1480251775491361055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_104
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dbcac9f7b5f69f0800000000000000
+      internalID: -473058832203072149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_105
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f87859135526910800000000000000
+      internalID: 1829118070116290352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_106
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8c6187c045f0e10800000000000000
+      internalID: 2166042358319597801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_107
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 255
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f52485c5b08c55d0800000000000000
+      internalID: -3072439327582312970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b10d1501fb24b0800000000000000
+      internalID: -5464008718620183924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ee1ec2379d5b50800000000000000
+      internalID: 6583584474747823988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_110
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0ed9ab4c460760800000000000000
+      internalID: 7423704923623001331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_111
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc42b1f5e023b30800000000000000
+      internalID: 4265487598713359826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_112
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac53807c5397a60800000000000000
+      internalID: 7672222569154857662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_113
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd111baae8a6fcd0800000000000000
+      internalID: -2524644815248744964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_114
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c67dd32c34ae890800000000000000
+      internalID: -7428050133853967303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_115
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc318605e8e330540800000000000000
+      internalID: 4972887194502435791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_116
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 204
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4192495adb77340800000000000000
+      internalID: 4861562841622713543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3f7282aa4c204d0800000000000000
+      internalID: -3169754952618216450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_118
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4234673d5822066a0800000000000000
+      internalID: -6458123907475553500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_119
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c935203d472a250800000000000000
+      internalID: 5954450106963172504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_120
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140fea9a960a41300800000000000000
+      internalID: 221978657326821441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_121
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbec858d572d29f0800000000000000
+      internalID: -491693501687469062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_122
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7691474f138074f0800000000000000
+      internalID: -833021760700836229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_123
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca92665816be81d0800000000000000
+      internalID: -3346537257444926770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_124
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa769bacc713edb0800000000000000
+      internalID: -4763937813008319758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_125
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 153
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8351484f877707f20800000000000000
+      internalID: 3418363478556284216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e146213fb2059980800000000000000
+      internalID: -8532910898796936730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_127
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22afabee1fdf52a60800000000000000
+      internalID: 7648798757692832290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_128
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a8fe34f448e3a30800000000000000
+      internalID: 4196937378732935824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_129
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf06901491351540800000000000000
+      internalID: 4977939475131142075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_130
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83560fe31b69630800000000000000
+      internalID: 3933526208433961127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_131
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c3a8691fa73ed0800000000000000
+      internalID: -2434284549905857870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_132
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced78dc2cfe84870800000000000000
+      internalID: 8667441102825447111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_133
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3302318263478570800000000000000
+      internalID: 8468811714646901562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_134
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 102
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d15ba00ce64140800000000000000
+      internalID: 4703706348453484606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718d34ee5c08085e0800000000000000
+      internalID: -1909384654410754025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_136
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2935d35125046e8f0800000000000000
+      internalID: -511650786372136046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac85f7a248a5cc9b0800000000000000
+      internalID: -5058568757748737846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_138
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcac61390ebb5ba0800000000000000
+      internalID: -6099072323650016066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2dc2941ee609e0800000000000000
+      internalID: -1655374040882401903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_140
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd04308ecec9f090800000000000000
+      internalID: -8000135876737495596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_141
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dbe026def37ead0800000000000000
+      internalID: -2673097565036167789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_142
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb099336a8b0670800000000000000
+      internalID: 8506044479991496124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_143
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 51
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084302ede39bdeb0800000000000000
+      internalID: -4693995536695212019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc4e9282a57f4a0800000000000000
+      internalID: -6559675203693786043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_145
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc1e480b4b94a640800000000000000
+      internalID: 5090364225399692538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_146
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a7181d52636f60800000000000000
+      internalID: 8026367112880037894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_147
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda0840975f5c090800000000000000
+      internalID: -8014730061720539726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_148
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be2eec588fe2b3f0800000000000000
+      internalID: -886382807684862284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_149
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b615141444304d4e0800000000000000
+      internalID: -1957936346311863957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_150
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37422406bfbeae460800000000000000
+      internalID: 7271884013227353203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_151
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2299ff9e6a60f0420800000000000000
+      internalID: 2598302823976245538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: country_152
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3f4cf1c39c1ee0800000000000000
+      internalID: -1288992931963782009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 924d8a18074741a40a4e2f71bd078a48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
